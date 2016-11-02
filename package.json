@@ -1,0 +1,15 @@
+{
+  "name": "Time",
+  "version": "0.1.0",
+  "description": "A light weight package to deal with time",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shapiromichael/Time.git"
+  },
+  "author": "Michael Shapiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shapiromichael/Time/issues"
+  }
+}
